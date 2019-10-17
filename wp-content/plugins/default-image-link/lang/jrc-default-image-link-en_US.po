@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jose A Ruiz <jruizcantero@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#. Text in echo
+#: default-image-link.php:57
+msgid "Attachment Page"
+msgstr ""
+
+#. Text in echo
+#: default-image-link.php:58
+msgid "Custom URL (You must write custom URL for each image)"
+msgstr ""
+
+#. Text in function
+#: default-image-link.php:1
+msgid "Default Image Link"
+msgstr ""
+
+#. Text in function
+#: default-image-link.php:1
+msgid "Default Image Link Options"
+msgstr ""
+
+#. Text in echo
+#: default-image-link.php:47
+msgid "Default Image Link Settings"
+msgstr ""
+
+#. Text in echo
+#: default-image-link.php:76
+msgid ""
+"If you liked the plugin and was useful to you, then please consider rate it "
+"or donating. You can write me or follow me on"
+msgstr ""
+
+#. Text in function
+#: default-image-link.php:1
+msgid "Invalid value"
+msgstr ""
+
+#. Text in echo
+#: default-image-link.php:56
+msgid "Media File"
+msgstr ""
+
+#. Text in echo
+#: default-image-link.php:55
+msgid "None"
+msgstr ""
+
+#. Text in echo
+#: default-image-link.php:73
+msgid "Rate it Now!"
+msgstr ""
+
+#. Text in echo
+#: default-image-link.php:52
+msgid "Select default option"
+msgstr ""
+
+#. Text in echo
+#: default-image-link.php:68
+msgid "Support This Plugin"
+msgstr ""
+
+#. Text in function
+#: default-image-link.php:1
+msgid "Updated"
+msgstr ""
